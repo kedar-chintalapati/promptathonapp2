@@ -230,7 +230,7 @@ def main():
         initial_sidebar_state="expanded"
     )
     
-    st.title("🧠 Digital Consciousness Probability Estimator")
+    st.title("Digital Consciousness Probability Estimator")
     st.write("""
     This sophisticated app calculates the probability that a Whole Brain Emulation (WBE)
     or other entity is conscious. Adjust **neuroscientific**, **phenomenological**, 
